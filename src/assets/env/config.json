@@ -1,12 +1,7 @@
 {
     "production": false,
-    "API_URL_STOCK": "url stock",
-    "API_URL_STOCK_BUSINESS": "API_URL_STOCK_BUSINESS",
-    "API_URL_STOCK_DATA": "API_URL_STOCK_DATA",
-    "OAUTH": {
-        "CLIENT_ID": "CLIENT_ID",
-        "CLIENT_SECRET": "CLIENT_SECRET",
-        "BASE_URL": "BASE_URL",
-        "TOKEN_URL": "TOKEN_URL"
-    }
+    "idUser": "17474",
+    "keyId": "LC382Ls49EBcXWopEWJ3",
+    "hastagInstagram": "API_URL_STOCK_BUSINESS",
+    "hastagTwitter": "API_URL_STOCK_DATA"
 }
